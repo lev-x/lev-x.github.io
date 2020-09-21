@@ -2,8 +2,8 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "sushiswap-app",
-  "short_name": "sushiswap-app",
+  "name": "SushiSwap",
+  "short_name": "SushiSwap",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "icons": [
