@@ -144,11 +144,11 @@ self.__precacheManifest = [
     "url": "/logo.png"
   },
   {
-    "revision": "acb0259066c2ba39a6113b465f6a9ab2",
+    "revision": "c15bdc331a4df694790b136516e6e25b",
     "url": "/pools.json"
   },
   {
-    "revision": "004553b4b7548cf3808e515f5b417c46",
+    "revision": "856d6043d414671b3b5decb50d4c030e",
     "url": "/tokens.json"
   },
   {
@@ -206,6 +206,10 @@ self.__precacheManifest = [
   {
     "revision": "7b5c6ecfcddba8d7bdeb84a9ea5694fb",
     "url": "/images/tokens/UMA.png"
+  },
+  {
+    "revision": "c74c39fa97ea682003d579bbedba7c5c",
+    "url": "/images/tokens/UNI.png"
   },
   {
     "revision": "939964c3c006c80a6fc8c82372ce2c8e",
