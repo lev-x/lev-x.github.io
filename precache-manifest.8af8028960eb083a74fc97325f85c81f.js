@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "5b67fb528f8c54ab1399",
-    "url": "/static/js/app.e3a1c1c1.chunk.js"
+    "revision": "b5b3da04fc4cfdfd72e2",
+    "url": "/static/js/app.26c60c85.chunk.js"
   },
   {
     "revision": "66090dc4495d4ce3dfb9",
@@ -148,7 +148,7 @@ self.__precacheManifest = [
     "url": "/pools.json"
   },
   {
-    "revision": "613437fcc225e239db14e6a9cff5440e",
+    "revision": "004553b4b7548cf3808e515f5b417c46",
     "url": "/tokens.json"
   },
   {
@@ -260,7 +260,7 @@ self.__precacheManifest = [
     "url": "/favicon.ico"
   },
   {
-    "revision": "4f3354d226358523aa9c8e0dc49b451c",
+    "revision": "855801353ccb4f8719e83103e7490778",
     "url": "/index.html"
   },
   {
