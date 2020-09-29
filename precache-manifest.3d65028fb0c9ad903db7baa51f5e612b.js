@@ -148,11 +148,11 @@ self.__precacheManifest = [
     "url": "/logo.png"
   },
   {
-    "revision": "9a18ee38d1e74c58cd44c06c3170fd00",
+    "revision": "61d33e13c15d5cd398c7eb55d68e056a",
     "url": "/pools.json"
   },
   {
-    "revision": "7c7919a4adda80b4f530c2ba7b823d44",
+    "revision": "e87ec233a20e490b58ab1659394d0615",
     "url": "/tokens.json"
   },
   {
