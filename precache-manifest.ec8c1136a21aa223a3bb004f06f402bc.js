@@ -152,7 +152,7 @@ self.__precacheManifest = [
     "url": "/pools.json"
   },
   {
-    "revision": "e87ec233a20e490b58ab1659394d0615",
+    "revision": "1f4cddcf91e91723beabd191c1ef6f79",
     "url": "/tokens.json"
   },
   {
