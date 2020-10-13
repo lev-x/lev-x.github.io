@@ -152,7 +152,7 @@ self.__precacheManifest = [
     "url": "/pools.json"
   },
   {
-    "revision": "1f4cddcf91e91723beabd191c1ef6f79",
+    "revision": "b5f98917c9234765f2da69718e40ddee",
     "url": "/tokens.json"
   },
   {
@@ -242,6 +242,10 @@ self.__precacheManifest = [
   {
     "revision": "2854d89f6b38aa3aa133370060ad0392",
     "url": "/images/tokens/xSUSHI.png"
+  },
+  {
+    "revision": "1519f7194b84cedec137a225b22afc7f",
+    "url": "/images/tokens/yUSD.png"
   },
   {
     "revision": "ec543248d7b23864564429fc03837190",
