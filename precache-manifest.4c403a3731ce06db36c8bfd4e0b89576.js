@@ -136,19 +136,27 @@ self.__precacheManifest = [
     "url": "./static/media/sushiswap.ef005f32.jpg"
   },
   {
-    "revision": "31d3c676ed1201478556fa156bc0a084",
+    "revision": "194577a7e20bdcc7afbb718f502c134c",
+    "url": "./.DS_Store"
+  },
+  {
+    "revision": "78d7124cd10c2dfc12ec9c55562dfc95",
     "url": "./favicon.png"
+  },
+  {
+    "revision": "3201df803dc35799a4d108825a025461",
+    "url": "./index.html"
   },
   {
     "revision": "26f60309bbd8495180946f8688dd2ee0",
     "url": "./logo.png"
   },
   {
-    "revision": "61d33e13c15d5cd398c7eb55d68e056a",
+    "revision": "941a4582fd4e22f3a0352fd0c828be4f",
     "url": "./pools.json"
   },
   {
-    "revision": "e8279bd7b9e01ee69eafafc8ca61183f",
+    "revision": "9f2671f7a71b7158c5acbcb13e43f607",
     "url": "./tokens.json"
   },
   {
@@ -258,22 +266,6 @@ self.__precacheManifest = [
   {
     "revision": "e4ccbecd60171882965578dfb05ebd98",
     "url": "./static/js/2.128b9178.chunk.js.LICENSE.txt"
-  },
-  {
-    "revision": "bca9b7bc2f17aeb2bc4866b55cd3e9fb",
-    "url": "./favicon-16.png"
-  },
-  {
-    "revision": "dbfe747de51939863316fa8917cc00af",
-    "url": "./favicon-32.png"
-  },
-  {
-    "revision": "0146ff831f20c04264166b473d4c65b0",
-    "url": "./favicon.ico"
-  },
-  {
-    "revision": "afe5e30c46eebaf254d6180b3476f97a",
-    "url": "./index.html"
   },
   {
     "revision": "58b439f556dab41fbf805b6ab6a9ccd3",
