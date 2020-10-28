@@ -4,14 +4,14 @@
     "static/js/0.98377761.chunk.js.map": "./static/js/0.98377761.chunk.js.map",
     "app.js": "./static/js/app.c2dd133c.chunk.js",
     "app.js.map": "./static/js/app.c2dd133c.chunk.js.map",
-    "runtime~app.js": "./static/js/runtime~app.72a678aa.js",
-    "runtime~app.js.map": "./static/js/runtime~app.72a678aa.js.map",
-    "static/js/3.a52fd7e1.chunk.js": "./static/js/3.a52fd7e1.chunk.js",
-    "static/js/3.a52fd7e1.chunk.js.map": "./static/js/3.a52fd7e1.chunk.js.map",
+    "runtime~app.js": "./static/js/runtime~app.6982c5f5.js",
+    "runtime~app.js.map": "./static/js/runtime~app.6982c5f5.js.map",
+    "static/js/3.7c620862.chunk.js": "./static/js/3.7c620862.chunk.js",
+    "static/js/3.7c620862.chunk.js.map": "./static/js/3.7c620862.chunk.js.map",
     "static/js/4.1ad335f2.chunk.js": "./static/js/4.1ad335f2.chunk.js",
     "static/js/4.1ad335f2.chunk.js.map": "./static/js/4.1ad335f2.chunk.js.map",
-    "static/js/5.0a9fb32d.chunk.js": "./static/js/5.0a9fb32d.chunk.js",
-    "static/js/5.0a9fb32d.chunk.js.map": "./static/js/5.0a9fb32d.chunk.js.map",
+    "static/js/5.941241bd.chunk.js": "./static/js/5.941241bd.chunk.js",
+    "static/js/5.941241bd.chunk.js.map": "./static/js/5.941241bd.chunk.js.map",
     "static/js/6.60521b78.chunk.js": "./static/js/6.60521b78.chunk.js",
     "static/js/6.60521b78.chunk.js.map": "./static/js/6.60521b78.chunk.js.map",
     "static/js/7.b204c409.chunk.js": "./static/js/7.b204c409.chunk.js",
@@ -76,7 +76,7 @@
     "manifest.json": "./manifest.json",
     "pools.json": "./pools.json",
     "serve.json": "./serve.json",
-    "static/js/3.a52fd7e1.chunk.js.LICENSE.txt": "./static/js/3.a52fd7e1.chunk.js.LICENSE.txt",
+    "static/js/3.7c620862.chunk.js.LICENSE.txt": "./static/js/3.7c620862.chunk.js.LICENSE.txt",
     "static/js/4.1ad335f2.chunk.js.LICENSE.txt": "./static/js/4.1ad335f2.chunk.js.LICENSE.txt",
     "static/media/ETH.png": "./static/media/ETH.ab794f02.png",
     "static/media/bell.png": "./static/media/bell.cf04af27.png",
@@ -90,8 +90,8 @@
     "tokens.json": "./tokens.json"
   },
   "entrypoints": [
-    "static/js/runtime~app.72a678aa.js",
-    "static/js/3.a52fd7e1.chunk.js",
+    "static/js/runtime~app.6982c5f5.js",
+    "static/js/3.7c620862.chunk.js",
     "static/js/app.c2dd133c.chunk.js"
   ]
 }
