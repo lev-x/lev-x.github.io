@@ -2,10 +2,10 @@
   "files": {
     "static/js/0.41bab9a3.chunk.js": "./static/js/0.41bab9a3.chunk.js",
     "static/js/0.41bab9a3.chunk.js.map": "./static/js/0.41bab9a3.chunk.js.map",
-    "app.js": "./static/js/app.727da468.chunk.js",
-    "app.js.map": "./static/js/app.727da468.chunk.js.map",
-    "runtime~app.js": "./static/js/runtime~app.18cc3a0b.js",
-    "runtime~app.js.map": "./static/js/runtime~app.18cc3a0b.js.map",
+    "app.js": "./static/js/app.b03d7e2a.chunk.js",
+    "app.js.map": "./static/js/app.b03d7e2a.chunk.js.map",
+    "runtime~app.js": "./static/js/runtime~app.873252a7.js",
+    "runtime~app.js.map": "./static/js/runtime~app.873252a7.js.map",
     "static/js/3.c089c4ba.chunk.js": "./static/js/3.c089c4ba.chunk.js",
     "static/js/3.c089c4ba.chunk.js.map": "./static/js/3.c089c4ba.chunk.js.map",
     "static/js/4.ff198d33.chunk.js": "./static/js/4.ff198d33.chunk.js",
@@ -20,12 +20,12 @@
     "static/js/8.2ca64e58.chunk.js.map": "./static/js/8.2ca64e58.chunk.js.map",
     "static/js/9.f06a5d90.chunk.js": "./static/js/9.f06a5d90.chunk.js",
     "static/js/9.f06a5d90.chunk.js.map": "./static/js/9.f06a5d90.chunk.js.map",
-    "static/js/10.20cedf9d.chunk.js": "./static/js/10.20cedf9d.chunk.js",
-    "static/js/10.20cedf9d.chunk.js.map": "./static/js/10.20cedf9d.chunk.js.map",
-    "static/js/11.4b8ccf98.chunk.js": "./static/js/11.4b8ccf98.chunk.js",
-    "static/js/11.4b8ccf98.chunk.js.map": "./static/js/11.4b8ccf98.chunk.js.map",
-    "static/js/12.e6412735.chunk.js": "./static/js/12.e6412735.chunk.js",
-    "static/js/12.e6412735.chunk.js.map": "./static/js/12.e6412735.chunk.js.map",
+    "static/js/10.76c9e48f.chunk.js": "./static/js/10.76c9e48f.chunk.js",
+    "static/js/10.76c9e48f.chunk.js.map": "./static/js/10.76c9e48f.chunk.js.map",
+    "static/js/11.a0fb70aa.chunk.js": "./static/js/11.a0fb70aa.chunk.js",
+    "static/js/11.a0fb70aa.chunk.js.map": "./static/js/11.a0fb70aa.chunk.js.map",
+    "static/js/12.38993eb2.chunk.js": "./static/js/12.38993eb2.chunk.js",
+    "static/js/12.38993eb2.chunk.js.map": "./static/js/12.38993eb2.chunk.js.map",
     "fonts/AntDesign.ttf": "././fonts/AntDesign.ttf",
     "fonts/Entypo.ttf": "././fonts/Entypo.ttf",
     "fonts/Feather.ttf": "././fonts/Feather.ttf",
@@ -92,8 +92,8 @@
     "tokens.json": "./tokens.json"
   },
   "entrypoints": [
-    "static/js/runtime~app.18cc3a0b.js",
+    "static/js/runtime~app.873252a7.js",
     "static/js/3.c089c4ba.chunk.js",
-    "static/js/app.727da468.chunk.js"
+    "static/js/app.b03d7e2a.chunk.js"
   ]
 }
