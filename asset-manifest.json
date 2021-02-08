@@ -6,8 +6,8 @@
     "app.js.map": "./static/js/app.63235861.chunk.js.map",
     "runtime~app.js": "./static/js/runtime~app.9e4b3e42.js",
     "runtime~app.js.map": "./static/js/runtime~app.9e4b3e42.js.map",
-    "static/js/3.27f78fc5.chunk.js": "./static/js/3.27f78fc5.chunk.js",
-    "static/js/3.27f78fc5.chunk.js.map": "./static/js/3.27f78fc5.chunk.js.map",
+    "static/js/3.f04cd277.chunk.js": "./static/js/3.f04cd277.chunk.js",
+    "static/js/3.f04cd277.chunk.js.map": "./static/js/3.f04cd277.chunk.js.map",
     "static/js/4.c2ad1b3b.chunk.js": "./static/js/4.c2ad1b3b.chunk.js",
     "static/js/4.c2ad1b3b.chunk.js.map": "./static/js/4.c2ad1b3b.chunk.js.map",
     "static/js/5.6d025612.chunk.js": "./static/js/5.6d025612.chunk.js",
@@ -81,7 +81,7 @@
     "manifest.json": "./manifest.json",
     "pools.json": "./pools.json",
     "serve.json": "./serve.json",
-    "static/js/3.27f78fc5.chunk.js.LICENSE.txt": "./static/js/3.27f78fc5.chunk.js.LICENSE.txt",
+    "static/js/3.f04cd277.chunk.js.LICENSE.txt": "./static/js/3.f04cd277.chunk.js.LICENSE.txt",
     "static/js/4.c2ad1b3b.chunk.js.LICENSE.txt": "./static/js/4.c2ad1b3b.chunk.js.LICENSE.txt",
     "static/media/ETH.png": "./static/media/ETH.ab794f02.png",
     "static/media/alchemy.png": "./static/media/alchemy.5bf96491.png",
@@ -103,7 +103,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.9e4b3e42.js",
-    "static/js/3.27f78fc5.chunk.js",
+    "static/js/3.f04cd277.chunk.js",
     "static/js/app.63235861.chunk.js"
   ]
 }
